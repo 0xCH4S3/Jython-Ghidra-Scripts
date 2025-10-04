@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/d56cd407-f52e-4c4d-9d5f-15b8bbee351f" alt="banner" width="300" height="300" />
+  <img src="https://github.com/user-attachments/assets/d56cd407-f52e-4c4d-9d5f-15b8bbee351f" alt="banner" width="150" height="150" />
 </div>
 
 # 0xCH4S3's Jython Scripts for Ghidra
